@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "todo-planner": {
+      "command": "<venv>/bin/python",
+      "args": ["-m", "todo_planner_mcp.server"]
+    }
+  }
+}

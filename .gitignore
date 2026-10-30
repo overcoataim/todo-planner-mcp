@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Secrets / local
+.env
+.mcp.json
+*.bin
+.todo_planner_mcp/
+token_cache*
+
+# Personal Claude Code notes (tenant, plans, preferences) - never commit
+CLAUDE.local.md
