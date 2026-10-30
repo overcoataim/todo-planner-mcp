@@ -1,5 +1,9 @@
 # todo-planner-mcp
 
+> **Status: unmaintained.** A working, live-tested proof of concept (all 38 tools passed against
+> a real Microsoft 365 tenant, October 2026). It's no longer actively developed. Feel free to fork
+> it; issues and pull requests may not get a response.
+
 An MCP (Model Context Protocol) server that exposes **Microsoft To Do** and
 **Microsoft Planner** over the Microsoft Graph API with **delegated** auth, so an
 assistant (e.g. a PA skill) can read *and* write your personal tasks (To Do) and your
